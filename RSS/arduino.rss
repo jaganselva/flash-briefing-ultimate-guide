@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa68</guid>
+      <title>Arduino Pi Tip for the week of July 30th</title>
+      <description>
+        Arduino Lillypad is a minature version of Arduino that can be used to prototype wearable projects. It can be sewn into the fabric of clothing and connected to sensors and actuators with conductive thread.
+      </description>
+      <pubDate>2018-06-13T00:00:00.0Z</pubDate>
+     </item>
+  </channel>
+</rss>
