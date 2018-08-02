@@ -1,0 +1,14 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa65",
+    "updateDate": "2018-07-31T00:00:00.0Z",
+    "titleText": "Raspberry Pi Tip 1 for the week of Jun 11th",
+    "mainText": "Did you know that one limitation of your Raspberry Pi is that it cannot perform analog to digital conversion. If you need to read an analog signal from an external peripheral or sensor, you will need a separate digital to analog converter chip in your circuit."
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa66",
+    "updateDate": "2018-07-31T00:00:00.0Z",
+    "titleText": "Raspberry Pi Tip 2 for the week of Jun 11th",
+    "mainText": "The Raspberry Pi 3 Model B+ has only slight improvements over the Raspberry Pi Model B. Besides a faster processor speed, it now has support for 5GHz internet."
+  }
+]
