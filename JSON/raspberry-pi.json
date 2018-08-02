@@ -1,6 +1,6 @@
 {
   "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa63",
-  "updateDate": "2018-07-31T00:00:00.0Z",
+  "updateDate": "2018-07-01T00:00:00.0Z",
   "titleText": "Raspberry Pi Tip for the week of July 30th",
   "mainText": "Did you know that one limitation of your Raspberry Pi is that it cannot perform analog to digital conversion. If you need to read an analog signal from an external peripheral or sensor, you will need a separate digital to analog converter chip in your circuit."
 }
